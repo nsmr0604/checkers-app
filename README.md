@@ -3,6 +3,12 @@
 Echo Show 5 (1st gen / `checkers` / MT8163 / armeabi-v7a / Android 11 / RAM 1GB)
 上で動作する Android アプリを開発するディレクトリ。
 
+> **作業停止中 (2026-11-19)**: 実機が別セッションに上書きされた可能性があるため、
+> このセッション (app 担当) は実機操作を停止しました。以下はそれまでの実測記録です。
+> 現状: 148 パッケージ / HOME = `com.android.launcher3` /
+> `me.jxl.echo.service` (Kiosk Satellite Edition の EchoService) が出現。
+> ユーザー判断で「現状を尊重して停止」。
+
 ## 対象環境 (実機実測)
 
 - 画面: 5.5 インチ / 960x480
